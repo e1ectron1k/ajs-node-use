@@ -12,6 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "@e1ectron1k/ajs": "github:e1ectron1k/ajs",
-    "@e1ectron1k/ajs-git": "github:e1ectron1k/ajs"
   }
 }
