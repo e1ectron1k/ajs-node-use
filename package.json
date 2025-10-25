@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@e1ectron1k/ajs": "^1.0.4"
+=======
+    "@e1ectron1k/ajs": "github:e1ectron1k/ajs"
+>>>>>>> 7f940c0edabc16183b003cb93b896ebb52cb2b44
   }
 }
